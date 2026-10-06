@@ -1,0 +1,6 @@
+{
+  "name": "Nexora - AI Lead Research & Growth Platform",
+  "description": "AI-powered lead research, opportunity discovery, service matching, and contextual outreach assistant for businesses and freelancers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
